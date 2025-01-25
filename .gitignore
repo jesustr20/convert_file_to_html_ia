@@ -11,6 +11,10 @@ media
 .csv
 credenciales.md
 .env
+minuta_v1.docx
+prompt_conversor_v1.txt
+prueba_gemini_v1.py
+test.db
 
 # Backup files # 
 *.bak 
